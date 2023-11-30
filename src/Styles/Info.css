@@ -1,0 +1,13 @@
+.contenedor{
+    width: 370px;
+    height: 100px;
+    display: flex;
+    color: #C4C4CC;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.contenedorejercicios{
+    display: flex;
+    width: 370px;
+    justify-content: space-between;
+}
